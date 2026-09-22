@@ -19,7 +19,7 @@ peanutgb.nwa
 ```
 
 ---
-![Télécharger PeanutGB](images/peanutgb-download.png)
+![Télécharger PeanutGB](peanutgb-download.png)
 
 ## &#x20;2. Installer PeanutGB sur la NumWorks
 
