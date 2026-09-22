@@ -43,6 +43,8 @@ sur la calculatrice.
 ## &#x20;3. Ajouter un jeu
 
 
+Tu peux trouver les jeux compatibles dans le dossier [Jeux](jeux/).
+Clique sur le jeux qui t'intéresse puis clique sur "View raw" pour télecharger le fichier.
 
 ---
 
